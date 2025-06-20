@@ -1,4 +1,8 @@
 # 🛡️ IT Service Operations Playbook
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Ops](https://img.shields.io/badge/focus-incident%20%7C%20support%20%7C%20RCA-blue)
+![Maturity](https://img.shields.io/badge/maturity-operational%20excellence-blueviolet)
+![Format](https://img.shields.io/badge/model-operational%20playbooks-important)
 
 This repository delivers a complete and actionable **Operations Playbook** for IT teams responsible for delivering reliable, efficient, and business-aligned technology services.
 
